@@ -2,7 +2,7 @@
 service: testr8
 
 # Name of the container image.
-image: your-user/testr8
+image: kombicode/testr8
 
 # Deploy to these servers.
 servers:
