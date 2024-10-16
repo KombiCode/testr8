@@ -7,10 +7,10 @@ image: kombicode/testr8
 # Deploy to these servers.
 servers:
   web:
-    - 159.65.126.132
+    - 161.35.66.28
   # job:
   #   hosts:
-  #     - 159.65.126.132
+  #     - 161.35.66.28
   #   cmd: bin/jobs
 
 # Enable SSL auto certification via Let's Encrypt (and allow for multiple apps on one server).
