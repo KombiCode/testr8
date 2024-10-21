@@ -7,7 +7,7 @@ image: kombicode/testr8
 # Deploy to these servers.
 servers:
   web:
-    - 159.65.126.132
+    - 161.35.66.28
   # job:
   #   hosts:
   #     - 161.35.66.28
@@ -17,7 +17,7 @@ servers:
 # Set ssl: false if using something like Cloudflare to terminate SSL (but keep host!).
 proxy:
   ssl: true
-  host: kombicode.com
+  host: app.loverails.com
 
 # Credentials for your image host.
 registry:
